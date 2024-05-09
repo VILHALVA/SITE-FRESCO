@@ -1,4 +1,4 @@
-# SITE FRESCO
+# SITE FRESCO 1
 👨‍🏫PROJETO CRIADO PARA O CURSO DE WORDPRESS.
 
 <img src="./IMAGENS/1 VIA/FOTO_01.png" align="center" width="500"> <br> 
